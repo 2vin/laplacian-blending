@@ -10,3 +10,12 @@ g++ laplacian-blending.cpp -o main `pkg-config --cflags --libs opencv` -std=c++1
 ./main
 
 # Results
+ Input images #1 Apple    
+ ![alt text](https://raw.githubusercontent.com/2vin/laplacian-blending/master/results/apple.jpg)   
+ 
+  Input images #2 Orange    
+ ![alt text](https://raw.githubusercontent.com/2vin/laplacian-blending/master/results/orange.jpg)   
+ 
+  Output Image    
+ ![alt text](https://raw.githubusercontent.com/2vin/laplacian-blending/master/results/blended.jpg)   
+ 
